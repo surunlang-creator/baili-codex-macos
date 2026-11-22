@@ -8,13 +8,13 @@
   "exportFps": 60,
   "exportBitrate": 40000000,
   "audioFile": "assets/startup-audio.m4a",
-  "backgroundStrength": 0.85,
+  "backgroundStrength": 0.2,
   "liveMaxWidth": 3840,
   "wallpaperFile": "wallpaper.mp4",
   "handoffFile": "handoff.mp4",
   "workEntrySeconds": 1.5,
   "wallpaperCycle": "single-periodic",
-  "panelOpacity": 0.6,
+  "panelOpacity": 0.24,
   "backgroundFps": 60,
   "reduceMotion": false
 }
