@@ -2,9 +2,11 @@
 
 ## 下载最新版 v1.3.6
 
-**[⬇ 点击直接下载 macOS App](https://github.com/surunlang-creator/baili-codex-macos/raw/refs/heads/main/Codex-Baili-Glow-macOS-v1.3.6.zip)**
+**[⬇ 点击下载 macOS App 完整包（约 73 MB）](https://github.com/surunlang-creator/baili-codex-macos/releases/download/1.3.6/Codex-Baili-Glow-v1.3.6-shared-library-arm64.zip)**
 
-[历史版本 v1.2.3](Codex-Baili-macOS-v1.2.3.zip) · [v1.2.3 更新说明](CHANGELOG-v1.2.3.md) · [v1.2.3 SHA-256 校验](SHA256-v1.2.3.txt)
+> 请用上面的按钮下载 App。页面右上角 **Code → Download ZIP** 下载的是仓库源码，不是可安装的 App。
+
+[全部版本下载页](https://github.com/surunlang-creator/baili-codex-macos/releases) · [历史版本 v1.2.3](Codex-Baili-macOS-v1.2.3.zip) · [v1.2.3 更新说明](CHANGELOG-v1.2.3.md) · [v1.2.3 SHA-256 校验](SHA256-v1.2.3.txt)
 
 下载 ZIP 即可获取 App，不需要逐个下载仓库源码。
 
