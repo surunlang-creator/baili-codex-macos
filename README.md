@@ -1,6 +1,6 @@
 # 白璃 · Codex macOS 动态背景
 
-## 下载最新版 v1.3.6
+## 下载最新版 v1.3.7
 
 **[⬇ 点击下载 macOS App 完整包（约 73 MB）](https://github.com/surunlang-creator/baili-codex-macos/releases/download/1.3.6/Codex-Baili-Glow-v1.3.6-shared-library-arm64.zip)**
 
